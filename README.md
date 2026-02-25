@@ -1,0 +1,2 @@
+# autopsy--autonomous-research-and-implementation-trading-engine
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Research and Implementation Trading Engine' FAILED.MASTER REFLECTION: QUALITY_SCORE: 3XP_AWARDED: 100NEW_TOPIC:SKILLS: [system_design, multi-agent_coordination, automation]METRICS:Coordination: 2 - The agent did not successfully orchestrate the required componentsORIGINAL ERROR LOGS:Ollama model
